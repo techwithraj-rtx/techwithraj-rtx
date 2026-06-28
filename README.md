@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hello!&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 <h2 align="center">💬 Let's Connect and have a Chat!</h2>
 
 <p align="center">
