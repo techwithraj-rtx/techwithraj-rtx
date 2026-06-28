@@ -1,24 +1,22 @@
-<h2 align="center">💬 Let's Connect and have a Chat!</h2>
-
 <p align="center">
-  <a href="https://yourwebsite.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <a href="https://yourwebsite.com">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlechrome.svg" width="45"/>
   </a>
 
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
   </a>
 
-  <a href="https://dev.to/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/DEV-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+  <a href="https://dev.to/yourusername">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/devdotto.svg" width="45"/>
   </a>
 
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <a href="https://x.com/yourusername">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="45"/>
   </a>
 
-  <a href="https://instagram.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://instagram.com/yourusername">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="45"/>
   </a>
 </p>
 
