@@ -41,6 +41,4 @@
   <img src="https://img.shields.io/badge/Always-Learning-orange?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/techwithraj-rtx-hash/techwithraj-rtx-hash/blob/output/github-snake-dark.svg" alt="Snake animation" />
-</p>
+
