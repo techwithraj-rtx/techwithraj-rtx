@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=180&section=header&text=✨%20Hello%20Members!&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=🌟%20Hello%20Members!&fontSize=60&fontColor=ffffff&animation=twinkling&desc=Welcome%20to%20our%20GitHub%20Community&descSize=20&descAlignY=75"/>
 <h2 align="center">💬 Let's Connect and have a Chat!</h2>
 
 <p align="center">
