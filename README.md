@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=180&section=header&text=👋%20Hello%20Members!&fontSize=50&fontColor=ffffff&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=180&section=header&text=✨%20Hello%20Members!&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 <h2 align="center">💬 Let's Connect and have a Chat!</h2>
 
 <p align="center">
