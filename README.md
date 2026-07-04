@@ -23,10 +23,20 @@
   </a>
 </p>
 
+<h2 align="center">
+  🚀 Tools & Technologies I Use
+</h2>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=🚀+Tools+%26+Technologies;Always+Learning+New+Things;Building+Cool+Projects+💻" />
+  <i>Always learning • Always building • Always improving</i>
 </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,c,java,html,css,js,python,mysql,php,git,github&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Loves-Coding-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Open%20Source-Learner-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Always-Learning-orange?style=for-the-badge" />
 </p>
