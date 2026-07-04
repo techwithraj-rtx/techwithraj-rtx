@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,c,java,html,css,js,python,mysql,php,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,c,java,html,css,js,python,mysql,php,c++,git,github&theme=dark" />
 </p>
 
 <p align="center">
