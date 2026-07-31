@@ -10,6 +10,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
+ <a href="https://www.linkedin.com/in/raj-negi-40a170378/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Reddit&logoColor=white" />
+  </a>
   <a href="https://dev.to/yourusername" target="_blank">
     <img src="https://img.shields.io/badge/DEV-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
   </a>
